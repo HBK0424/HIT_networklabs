@@ -1,0 +1,3 @@
+﻿  solve_pi.c
+D:\VisualSutdio_projects\computerm_modeling_lab1\computerm_modeling_lab1\solve_pi.c(11,16): warning C4244: “函数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  computerm_modeling_lab1.vcxproj -> D:\VisualSutdio_projects\computerm_modeling_lab1\Debug\computerm_modeling_lab1.exe
